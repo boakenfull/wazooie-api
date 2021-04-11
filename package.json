@@ -1,5 +1,6 @@
 {
-  "name": "@wazooie/api",
+  "name": "wazooie-api",
+  "version": "0.0.1",
   "scripts": {
     "start": "webpack serve",
     "start:standalone": "webpack serve --env standalone",
