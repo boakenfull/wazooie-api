@@ -1,6 +1,6 @@
 {
   "name": "wazooie-api",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "scripts": {
     "start": "webpack serve",
     "start:standalone": "webpack serve --env standalone",
@@ -19,8 +19,7 @@
     }
   },
   "files": [
-    "dist/wazooie-api.js",
-    "dist/wazooie-api.js.map"
+    "dist"
   ],
   "devDependencies": {
     "@babel/core": "^7.12.16",
